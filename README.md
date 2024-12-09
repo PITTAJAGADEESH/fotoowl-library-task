@@ -72,7 +72,7 @@ You can find the complete source code at: [GitHub Repository](https://github.com
 
 ## Deployment
 
-This project is deployed using [Render](https://render.com).
+This project is deployed using [Render](https://render.com)
 
 **Live Demo Here:** [Render Deployment](https://your-render-link-here.com)
 
