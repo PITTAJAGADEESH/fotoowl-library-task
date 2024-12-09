@@ -27,13 +27,9 @@ A Library Management System built with **Node.js**, **Express.js**, **SQLite**, 
 - Download borrow history as CSV using `json2csv`.
 - Secure data management with SQLite.
 
-## Live Demo
-
-You can try the application on [Render here](https://your-render-link-here.com).
-
 ## GitHub Repository
 
-You can find the complete source code at: [GitHub Repository](https://github.com/PITTAJAGADEESH)
+You can find the complete source code at: [GitHub Repository](https://github.com/PITTAJAGADEESH/fotoowl-library-task)
 
 ## Postman Documentation Screenshots
 
@@ -74,7 +70,7 @@ You can find the complete source code at: [GitHub Repository](https://github.com
 
 This project is deployed using [Render](https://render.com)
 
-**Live Demo Here:** [Render Deployment](https://your-render-link-here.com)
+**Live Demo Here:** [Render Deployment](https://fotoowl-library-task.onrender.com)
 
 ## Acknowledgements
 
