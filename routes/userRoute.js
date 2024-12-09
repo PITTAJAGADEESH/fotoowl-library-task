@@ -2,7 +2,6 @@ const express = require("express");
 const db = require("../models/db");
 const { Parser } = require("json2csv");
 const authenticateJWT = require("../authMiddleware");
-
 const router = express.Router();
 
 router.get("/books", (req, res) => {
